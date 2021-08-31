@@ -1,4 +1,4 @@
-# Artificial-Intelligence
+# Artificial-Intelligence-Fuzzy-Controllers
 
 In this project we uncovered:
  - The basics of Fuzzy Logic and Fuzzy Controllers.
